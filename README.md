@@ -26,11 +26,13 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/gitseoyeon/leetcode/tree/main/0035-search-insert-position/) | Easy |
+| [0069-sqrtx](https://github.com/gitseoyeon/leetcode/tree/main/0069-sqrtx/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0066-plus-one](https://github.com/gitseoyeon/leetcode/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/gitseoyeon/leetcode/tree/main/0067-add-binary/) | Easy |
+| [0069-sqrtx](https://github.com/gitseoyeon/leetcode/tree/main/0069-sqrtx/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
