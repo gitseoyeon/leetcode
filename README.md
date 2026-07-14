@@ -33,6 +33,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 | [0066-plus-one](https://github.com/gitseoyeon/leetcode/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/gitseoyeon/leetcode/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/gitseoyeon/leetcode/tree/main/0069-sqrtx/) | Easy |
+| [0070-climbing-stairs](https://github.com/gitseoyeon/leetcode/tree/main/0070-climbing-stairs/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -41,4 +42,12 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/gitseoyeon/leetcode/tree/main/0067-add-binary/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/gitseoyeon/leetcode/tree/main/0070-climbing-stairs/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/gitseoyeon/leetcode/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
