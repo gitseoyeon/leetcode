@@ -24,17 +24,11 @@ class Solution {
             TreeNode n1 = queue.poll();
             TreeNode n2 = queue.poll();
 
-            if (n1 == null && n2 == null) {
-                continue;
-            }
+            if (n1 == null && n2 == null) continue;
 
-            if (n1 == null || n2 == null) {
-                return false;
-            }
+            if (n1 == null || n2 == null) return false;
 
-            if (n1.val != n2.val) {
-                return false;
-            }
+            if (n1.val != n2.val) return false;
 
             queue.offer(n1.left);
             queue.offer(n2.left);
