@@ -26,6 +26,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 | [0088-merge-sorted-array](https://github.com/gitseoyeon/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/gitseoyeon/leetcode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0118-pascals-triangle](https://github.com/gitseoyeon/leetcode/tree/main/0118-pascals-triangle/) | Easy |
+| [0119-pascals-triangle-ii](https://github.com/gitseoyeon/leetcode/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gitseoyeon/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -52,6 +53,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/gitseoyeon/leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0118-pascals-triangle](https://github.com/gitseoyeon/leetcode/tree/main/0118-pascals-triangle/) | Easy |
+| [0119-pascals-triangle-ii](https://github.com/gitseoyeon/leetcode/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gitseoyeon/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
