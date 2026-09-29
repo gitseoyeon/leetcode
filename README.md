@@ -30,6 +30,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 | [0118-pascals-triangle](https://github.com/gitseoyeon/leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/gitseoyeon/leetcode/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gitseoyeon/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0136-single-number](https://github.com/gitseoyeon/leetcode/tree/main/0136-single-number/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -46,6 +47,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/gitseoyeon/leetcode/tree/main/0067-add-binary/) | Easy |
+| [0136-single-number](https://github.com/gitseoyeon/leetcode/tree/main/0136-single-number/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
