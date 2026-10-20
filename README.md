@@ -10,6 +10,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 | [0088-merge-sorted-array](https://github.com/gitseoyeon/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/gitseoyeon/leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/gitseoyeon/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
+| [0160-intersection-of-two-linked-lists](https://github.com/gitseoyeon/leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -69,6 +70,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 | ------- | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/gitseoyeon/leetcode/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0141-linked-list-cycle](https://github.com/gitseoyeon/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
+| [0160-intersection-of-two-linked-lists](https://github.com/gitseoyeon/leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -137,6 +139,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/gitseoyeon/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
+| [0160-intersection-of-two-linked-lists](https://github.com/gitseoyeon/leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
