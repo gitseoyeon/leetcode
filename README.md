@@ -34,6 +34,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 | [0119-pascals-triangle-ii](https://github.com/gitseoyeon/leetcode/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gitseoyeon/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/gitseoyeon/leetcode/tree/main/0136-single-number/) | Easy |
+| [0169-majority-element](https://github.com/gitseoyeon/leetcode/tree/main/0169-majority-element/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -77,6 +78,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/gitseoyeon/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0169-majority-element](https://github.com/gitseoyeon/leetcode/tree/main/0169-majority-element/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -133,6 +135,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/gitseoyeon/leetcode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0169-majority-element](https://github.com/gitseoyeon/leetcode/tree/main/0169-majority-element/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -142,8 +145,17 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/gitseoyeon/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/gitseoyeon/leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0169-majority-element](https://github.com/gitseoyeon/leetcode/tree/main/0169-majority-element/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/gitseoyeon/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/gitseoyeon/leetcode/tree/main/0169-majority-element/) | Easy |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/gitseoyeon/leetcode/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
