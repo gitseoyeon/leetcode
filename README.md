@@ -19,6 +19,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 | [0067-add-binary](https://github.com/gitseoyeon/leetcode/tree/main/0067-add-binary/) | Easy |
 | [0125-valid-palindrome](https://github.com/gitseoyeon/leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/gitseoyeon/leetcode/tree/main/0168-excel-sheet-column-title/) | Easy |
+| [0171-excel-sheet-column-number](https://github.com/gitseoyeon/leetcode/tree/main/0171-excel-sheet-column-number/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -48,6 +49,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 | [0069-sqrtx](https://github.com/gitseoyeon/leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/gitseoyeon/leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/gitseoyeon/leetcode/tree/main/0168-excel-sheet-column-title/) | Easy |
+| [0171-excel-sheet-column-number](https://github.com/gitseoyeon/leetcode/tree/main/0171-excel-sheet-column-number/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
